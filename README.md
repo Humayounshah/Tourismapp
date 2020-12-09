@@ -1,2 +1,2 @@
 # Tourismapp
-Import
+Importing first project
